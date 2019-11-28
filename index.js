@@ -34,6 +34,10 @@ function johnLennonFacts(facts) {
   }
   return updatedFacts;
 }
+
+function iLoveTheBeatles(num) {
+  
+}
  
 
 
